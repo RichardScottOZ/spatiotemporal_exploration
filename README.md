@@ -71,6 +71,9 @@ We thank [Dr. Daniel Müller](https://www.researchgate.net/profile/Daniel-Muelle
 
 Access EndNote library [Here](https://github.com/geo-julian/spatiotemporal_exploration/tree/main/EndNote_Library)
 
+## Fork for notes
+- Also an Earthbytes repo
+- https://github.com/EarthByte/spatio-temporal-exploration
 
 
 
